@@ -20,6 +20,7 @@ namespace statistik
 
             Console.WriteLine( numbers.Contains(34));
             Console.WriteLine( numbers.Contains(100));
+            Console.WriteLine( numbers.Contains(65));
 
             Console.WriteLine(string.Join(" - ", numbers));
 
