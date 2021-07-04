@@ -19,7 +19,7 @@ namespace statistik
             Console.WriteLine(broi);
 
             Console.WriteLine( numbers.Contains(34));
-            Console.WriteLine( numbers.Contains(60));
+            Console.WriteLine( numbers.Contains(65));
 
             Console.WriteLine(string.Join(" - ", numbers));
 
